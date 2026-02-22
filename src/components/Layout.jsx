@@ -44,7 +44,7 @@ const Layout = ({ children }) => {
       >
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between text-sm text-gray-400">
-            <p>© 2024 Password Strength Visualizer - Educational Tool for Digital Security</p>
+            <p>© 2026 Password Strength Visualizer - Educational Tool for Digital Security</p>
             <p className="mt-2 md:mt-0">
               Powered by zxcvbn library | 
               <span className="text-blue-400 ml-1">Real-time analysis</span>
